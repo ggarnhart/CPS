@@ -278,6 +278,14 @@ export default function Home() {
             Otherwise, stay safe, enjoy the rest of the day, and thank you for
             stopping by :)
           </h3>
+          <br />
+          <h3>
+            If you would like to see the code behind this website, click{" "}
+            <a href="https://github.com/ggarnhart/CPS" target="_blank">
+              here
+            </a>
+            .
+          </h3>
         </Container>
       </div>
     </div>
