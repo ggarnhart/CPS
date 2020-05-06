@@ -274,7 +274,8 @@ export default function Home() {
           </h3>
           <br />
           <h3>
-            Have ideas on how I can improve this overview? Let me know.
+            Have ideas on how I can improve this overview?{" "}
+            <a href="mailto:gegarnhart@email.wm.edu">Let me know. </a>
             Otherwise, stay safe, enjoy the rest of the day, and thank you for
             stopping by :)
           </h3>
